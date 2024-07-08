@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ditlev .. and under construction 🔧 </h1>
 
-This Github is an archive of projects created during my <br/><br/> studies and in private to serve as an informal CV and portfolio!
+This Github is an archive of projects created during my studies and in private to serve as an informal CV and portfolio!
 
 <h2>Education</h2>
 
@@ -36,7 +36,7 @@ with experience regarding
 
 
 <h2>Academic projects</h2>
-This is a collection of projects made during courses at DTU ranging from product development, ... to socio technical topics<br/>
+This is a collection of projects made during courses at DTU ranging from product development, ... to socio technical topics<br/><br/><br/>
 
 | Visual communication, course xxxxx | Mechanical cad, course xxxxx |
 |------------|---------|
