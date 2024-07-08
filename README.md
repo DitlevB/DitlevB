@@ -42,6 +42,11 @@ This is a collection of projects made during courses at DTU ranging from product
 |------------|---------|
 |[Product sketches](https://github.com/ditlevb/xxxxx)|[LEGO figure and Bialletti mocha pot](https://github.com/ditlevb/xxxxx)|
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 - <b>Visual communication, course xxxxx </b>
   
