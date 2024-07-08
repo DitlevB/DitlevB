@@ -23,12 +23,13 @@ with experience regarding
 - <b>...</b>
 
 <h2>Other skillsets</h2>
-- <b>Rapid prototyping</b>
+- <b>Rapids prototyping</b>
   - 3D printing
   - Laser cutting
   - Arduino
   - Mechatronics
 - <b>Data visualization</b>
+
 
 <h2>Methods?</h2>
 
