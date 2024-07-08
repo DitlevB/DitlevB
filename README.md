@@ -36,7 +36,7 @@ with experience regarding
 
 
 <h2>Academic projects</h2>
-This is a collection of projects made during courses at DTU ranging from product development, ... to socio technical topics<br/><br/><br/>
+This is a collection of projects made during courses at DTU ranging from product development, ... to socio technical topics<br/><br/>
 
 | Visual communication, course xxxxx | Mechanical cad, course xxxxx |
 |------------|---------|
