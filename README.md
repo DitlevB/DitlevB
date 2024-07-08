@@ -8,7 +8,6 @@ B.Sc. from the Technical University of Denmark, DTU ...
 with experience regarding
 - <b>Design thinking</b>
   - ...
-  - yes
 - <b>Product development</b>
   - ...
 - <b>Programming</b>
@@ -24,6 +23,11 @@ with experience regarding
 - <b>...</b>
 
 <h2>Other skillsets</h2>
+
+- <b>Rapid prototyping</b>
+  - 3D printing
+  - Laser cutting
+
 - <b>Rapids prototyping</b>
   - 3D printing
   - Laser cutting
