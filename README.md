@@ -38,8 +38,13 @@ with experience regarding
 <h2>Academic projects</h2>
 This is a collection of projects made during courses at DTU ranging from product development, ... to socio technical topics..
 
+| Visual communication, course xxxxx | Mechanical cad, course xxxxx |
+|------------|---------|
+|[Product sketches](https://github.com/ditlevb/xxxxx)|[LEGO figure and Bialletti mocha pot](https://github.com/ditlevb/xxxxx)|
+
+
 - <b>Visual communication, course xxxxx </b>
-  - [Product sketches](https://github.com/ditlevb/xxxxx)
+  
 
 <h2>Passion projects</h2>
 With a burning creative urge, multiple passion projects have been created. These has been used as an outlet to try out the tools, methods and skills I have gathered through my studies.
