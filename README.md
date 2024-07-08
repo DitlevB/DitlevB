@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Ditlev's Portfolio</title>
-</head>
-<body>
     <h1>Hi, I'm Ditlev!</h1>
     <p>This Github is an archive of projects created during my studies and in private to serve as an informal CV and portfolio!</p>
     
@@ -50,5 +44,3 @@
     <ul>
         <li><b>Lightweight 3D printed computer mouse</b> - <a href="https://github.com/ditlevb/xxxxx">Lightweight mouse</a></li>
     </ul>
-</body>
-</html>
