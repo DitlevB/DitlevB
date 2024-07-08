@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ditlev! </h1>
+<h1>Hi, I'm Ditlev .. and under construction 🔧 </h1>
 
 This Github is an archive of projects created during my studies and in private to serve as an informal CV and portfolio!
 
