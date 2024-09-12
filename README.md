@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ditlev .. and under construction 🔧 </h1>
 
-This Github is an archive of projects created during my studies and in private to serve as an informal CV and portfolio!
+This Github is an archive of both academic and private projects created during my studies to serve as an informal CV and portfolio!
 
 <h2>Education</h2>
 
