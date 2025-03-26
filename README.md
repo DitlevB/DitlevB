@@ -48,6 +48,6 @@ With a burning creative urge, a plethora of projects have been made in my freeti
 
 | Custom Lightweight Mouse | Custom AMP/DAC |
 |------------|---------|
-|[![Alt text](https://raw.githubusercontent.com/DitlevB/CustomMouse/main/images/Thumbnail.png)](https://github.com/DitlevB/CustomMouse/tree/main)
+|[![Alt text](https://raw.github.com/DitlevB/CustomMouse/blob/main/images/CustomMouseThumbnail.png)](https://github.com/DitlevB/CustomMouse/tree/main)
 |...|
  
