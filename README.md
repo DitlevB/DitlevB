@@ -47,7 +47,7 @@ This is a collection of projects made during courses at DTU ranging from product
 With a burning creative urge, a plethora of projects have been made in my freetime. These has been used as an outlet to try out the tools, methods and skills I have gathered through my studies.
 
 | Custom Lightweight Mouse | Custom AMP/DAC |
-|------------|---------|
-|[![Alt text](https://raw.githubusercontent.com/DitlevB/CustomMouse/main/images/CustomMouseThumbnail.png)](https://github.com/DitlevB/CustomMouse/tree/main)
-|Coming soon|
+|-------------------------|----------------|
+| [![Alt text](https://raw.githubusercontent.com/DitlevB/CustomMouse/main/images/Thumbnail.png)](https://github.com/DitlevB/CustomMouse/tree/main) | Coming soon |
+
  
