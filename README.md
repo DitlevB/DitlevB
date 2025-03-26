@@ -44,9 +44,10 @@ This is a collection of projects made during courses at DTU ranging from product
   
 
 <h2>Passion projects</h2>
-With a burning creative urge, a pleathora of projects have been made in my freetime. These has been used as an outlet to try out the tools, methods and skills I have gathered through my studies.
+With a burning creative urge, a plethora of projects have been made in my freetime. These has been used as an outlet to try out the tools, methods and skills I have gathered through my studies.
 
 | Custom Lightweight Mouse | Custom AMP/DAC |
 |------------|---------|
-|[Mouse](https://github.com/ditlevb/CustomMouse)|[LEGO figure and Bialletti mocha pot](https://github.com/ditlevb/xxxxx)|
+|[![test]([image-url](https://github.com/DitlevB/CustomMouse/blob/main/images/Thumbnail.png))](https://github.com/DitlevB/CustomMouse/tree/main)
+|[LEGO figure and Bialletti mocha pot](https://github.com/ditlevb/xxxxx)|
  
