@@ -44,8 +44,9 @@ This is a collection of projects made during courses at DTU ranging from product
   
 
 <h2>Passion projects</h2>
-With a burning creative urge, multiple passion projects have been created. These has been used as an outlet to try out the tools, methods and skills I have gathered through my studies.
+With a burning creative urge, a pleathora of projects have been made in my freetime. These has been used as an outlet to try out the tools, methods and skills I have gathered through my studies.
 
-- <b>Lightweight 3D printed computer mouse</b>
-  - [Lightweight mouse](https://github.com/ditlevb/xxxxx)
+| Custom Lightweight Mouse | Custom AMP/DAC |
+|------------|---------|
+|[Mouse](https://github.com/ditlevb/CustomMouse)|[LEGO figure and Bialletti mocha pot](https://github.com/ditlevb/xxxxx)|
  
