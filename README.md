@@ -45,6 +45,7 @@ This is a collection of projects made during courses at DTU ranging from product
 
 <h2>Passion projects</h2>
 With a burning creative urge, a plethora of projects have been made in my freetime. These has been used as an outlet to try out the tools, methods and skills I have gathered through my studies.
+I've collected my most notable projects here in my portfolio. See the table below and read more about them!
 
 | Custom Lightweight Mouse | Custom AMP/DAC |
 |-------------------------|----------------|
